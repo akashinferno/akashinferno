@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @akashinferno
+- 👋 Hi, I’m Akash Vardhan
 - 👀 I’m interested in Science and tech
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate in projects
