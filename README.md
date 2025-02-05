@@ -64,7 +64,7 @@
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=akashinferno007@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="discordapp.com/users/akash_inferno" target="_blank">
+  <a href="https://discordapp.com/users/akash_inferno" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
   <a href="https://g.dev/akash-vardhan" target="_blank">
