@@ -51,6 +51,11 @@
 </div>
 
 ###
+###
+
+<h2 align="left">Building cool stuff? (or not) , Lets connect!</h2>
+
+###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/akash-vardhan-v/" target="_blank">
