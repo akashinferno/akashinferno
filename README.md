@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">👋 Hi, I’m Akash Vardhan<br>👀 I’m interested in Science and tech<br>🌱 I’m currently learning Machine Learning<br>💞️ I’m looking to collaborate in projects<br>📫 How to reach me -> akashinferno007@gmail.com<br>😄 Pronouns: He/Him</p>
+<h3 align="left">👋 Hi, I’m Akash Vardhan<br>👀 I’m interested in Science and tech<br>🌱 I’m currently learning Machine Learning<br>💞️ I’m looking to collaborate in projects<br>📫 How to reach me -> akashinferno007@gmail.com<br>😄 Pronouns: He/Him</h3>
 
 ###
 
