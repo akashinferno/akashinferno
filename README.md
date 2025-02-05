@@ -60,7 +60,7 @@
   <a href="https://www.linkedin.com/in/akash-vardhan-v/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="akashinferno007@gmail.com" target="_blank">
+  <a href="mailto:akashinferno007@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="discordapp.com/users/akash_inferno" target="_blank">
