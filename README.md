@@ -1,6 +1,6 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-###
+
 
 
 <img align="right" height="220" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXZxdjQzbmgxa3JrNno2dDVkdmhoaW9pYTk3NXR2YTl5cXMycjZtdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0MYIjdDiURgtAPGo/giphy.gif"  />
@@ -9,11 +9,11 @@
 
 <h3 align="left">👋 Hi, I’m Akash Vardhan<br>👀 I’m interested in Science and tech<br>🌱 I’m currently learning Machine Learning<br>💞️ I’m looking to collaborate in projects<br>📫 How to reach me -> akashinferno007@gmail.com<br>😄 Pronouns: He/Him</h3>
 
-###
+
 
 <h2 align="left">I code with</h2>
 
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -41,7 +41,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
-###
+
 
 
 ###
