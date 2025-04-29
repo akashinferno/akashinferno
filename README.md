@@ -2,9 +2,10 @@
 
 ###
 
+
+<img align="right" height="220" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXZxdjQzbmgxa3JrNno2dDVkdmhoaW9pYTk3NXR2YTl5cXMycjZtdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0MYIjdDiURgtAPGo/giphy.gif"  />
 <h2 align="left">About me</h2>
 
-###
 
 <h3 align="left">👋 Hi, I’m Akash Vardhan<br>👀 I’m interested in Science and tech<br>🌱 I’m currently learning Machine Learning<br>💞️ I’m looking to collaborate in projects<br>📫 How to reach me -> akashinferno007@gmail.com<br>😄 Pronouns: He/Him</h3>
 
@@ -42,13 +43,7 @@
 
 ###
 
-###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/akashinferno/count.svg?"  />
-</div>
-
-###
 ###
 
 <h2 align="left">Building cool stuff? (or not) , Lets connect!</h2>
@@ -68,6 +63,13 @@
   <a href="https://g.dev/akash-vardhan" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="devto logo"  />
   </a>
+</div>
+
+###
+
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/akashinferno/count.svg?"  />
 </div>
 
 ###
