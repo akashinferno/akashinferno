@@ -67,10 +67,17 @@
 
 ###
 
+<h2 align="left"> My Badges</h2>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/akashinferno/count.svg?"  />
-</div>
+
+
+<p align="center">
+  <a href="https://holopin.io/@akashinferno">
+    <img src="https://holopin.me/akashinferno" width="900" />
+  </a>
+</p>
+
+
 
 ###
 
