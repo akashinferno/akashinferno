@@ -39,22 +39,13 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/akash-vardhan-v/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=akashinferno007@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://discordapp.com/users/akash_inferno" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://g.dev/akash-vardhan" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="devto logo"  />
-  </a>
-</div>
+<p align="left">
+<a href="https://www.linkedin.com/in/akash-vardhan-v/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/></a>&nbsp;&nbsp;
+<a href="mailto:akashinferno007@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"/></a>&nbsp;&nbsp;
+<a href="https://discordapp.com/users/akash_inferno"><img src="https://cdn.simpleicons.org/discord/5865F2" width="40"/></a>&nbsp;&nbsp;
+<a href="https://g.dev/akash-vardhan"><img src="https://cdn.simpleicons.org/devdotto/ffffff" width="40"/></a>
+</p>
 
-###
 
 <h2 align="left"> My Badges</h2>
 
