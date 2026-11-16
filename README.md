@@ -11,7 +11,7 @@ I build AI systems, backend systems, Generative AI and Agentic AI applications, 
 I'm an aspiring engineer and looking forward to connecting with like-minded individuals.</b>
 </p>
 
-<br clear="right"/>
+
 
 <h2 align="left">🧰 I code with </h2>
 
