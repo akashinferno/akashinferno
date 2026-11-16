@@ -1,14 +1,14 @@
-<h1 align="left">Hi, I'm Akash Vardhan</h1>
+<h1 align="left">Hi! I'm Akash Vardhan</h1>
 
-<img align="right" height="220" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXZxdjQzbmgxa3JrNno2dDVkdmhoaW9pYTk3NXR2YTl5cXMycjZtdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0MYIjdDiURgtAPGo/giphy.gif"  />
+<!-- <img align="right" height="220" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXZxdjQzbmgxa3JrNno2dDVkdmhoaW9pYTk3NXR2YTl5cXMycjZtdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0MYIjdDiURgtAPGo/giphy.gif"  /> -->
 
 <h2 align="left">About me</h2>
 
 
 <p align="left">
-I am a Computer Science undergrad and a passionate developer. I'm geeky about coding and building new things.<br>
+<b>I am a Computer Science undergrad and a passionate developer. I'm geeky about coding and building new things.<br>
 I build AI systems, backend systems, Generative AI and Agentic AI applications, and I'm always eager to learn and take on new challenges.<br>
-I'm an aspiring engineer and looking forward to connecting with like-minded individuals.
+I'm an aspiring engineer and looking forward to connecting with like-minded individuals.</b>
 </p>
 
 <br clear="right"/>
@@ -20,22 +20,22 @@ I'm an aspiring engineer and looking forward to connecting with like-minded indi
 <h3 align="left">Languages</h3>
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,c,js,ts,html,css,flutter" />
+<img height="36" src="https://skillicons.dev/icons?i=python,java,c,js,html,css,flutter" />
 </p>
 
 <h3 align="left">AI Engineering</h3>
 
 <p align="left">
-<img src="https://img.shields.io/badge/LLMs-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/RAG-0891B2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/LangGraph-2563EB?style=for-the-badge&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" />
-<img src="https://img.shields.io/badge/Agentic%20AI-EA580C?style=for-the-badge" />
+<img height="24" src="https://img.shields.io/badge/LLMs-7C3AED?style=for-the-badge" />
+<img height="24" src="https://img.shields.io/badge/RAG-0891B2?style=for-the-badge" />
+<img height="24" src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img height="24" src="https://img.shields.io/badge/LangGraph-2563EB?style=for-the-badge&logo=langchain&logoColor=white" />
+<img height="24" src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" />
+<img height="24" src="https://img.shields.io/badge/Agentic%20AI-EA580C?style=for-the-badge" />
 </p>
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" />
+<img height="36" src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" />
 </p>
 
 
@@ -43,20 +43,20 @@ I'm an aspiring engineer and looking forward to connecting with like-minded indi
 <h3 align="left">Backend Development</h3>
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=django,fastapi,flask" />
-<img src="https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=for-the-badge&logo=django&logoColor=white" />
+<img height="36" src="https://skillicons.dev/icons?i=django,fastapi,flask" />
+<img height="24" src="https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=for-the-badge&logo=django&logoColor=white" />
 </p>
 
 <h3 align="left">Databases</h3>
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb" />
+<img height="36" src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb" />
 </p>
 
 <h3 align="left">Development</h3>
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode,firebase,arduino" />
+<img height="36" src="https://skillicons.dev/icons?i=git,github,postman,linux,vscode,firebase,arduino" />
 </p>
 
 ###
